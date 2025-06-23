@@ -58,6 +58,9 @@ El objetivo del desafío es construir un sistema secuencial encoder-decoder util
 - Generación de texto por inferencia secuencial.
 - Evaluación cualitativa de los resultados generados.
 
+### **[Desafío 4](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_4_Diego_Mendez.ipynb)**
 
+#### Descripción
 
-Desafío 4
+#### Contenido del notebook
+
