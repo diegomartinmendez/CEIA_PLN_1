@@ -24,7 +24,7 @@ El objetivo del trabajo es aplicar técnicas de procesamiento de lenguaje natura
 - Complement Naive Bayes
 - Cálculo y comparación de métricas de rendimiento.
 
-### **[Desafío 1](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_2_Diego_Mendez.ipynb)**
+### **[Desafío 2](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_2_Diego_Mendez.ipynb)**
 
 #### Descripción
 El objetivo del desafío es desarrollar un sistema de generación de texto basado en redes neuronales recurrentes, entrenado con un corpus propio. Se exploran diversas arquitecturas y técnicas de entrenamiento para mejorar la calidad del texto generado.
