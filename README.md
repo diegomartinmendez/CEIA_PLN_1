@@ -7,7 +7,31 @@
 
 Este repositorio contiene los desafíos que se deben entregar para aprobar la materia.
 
-[Desafío 1](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_1_Diego_Mendez.ipynb)
+####[Desafío 1](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_1_Diego_Mendez.ipynb)
+
+Descripción
+El objetivo del trabajo es aplicar técnicas de procesamiento de lenguaje natural (PLN) sobre el dataset 20 Newsgroups, utilizando representaciones de texto basadas en Bag of Words y TF-IDF, clasificadores Naive Bayes (MultinomialNB y ComplementNB) y evaluaciones mediante métricas como el F1-score.
+
+Contenido del notebook
+Importación de bibliotecas y configuración de entorno.
+
+Carga y preprocesamiento del dataset 20 Newsgroups desde sklearn.datasets.
+
+Vectorización de textos utilizando:
+
+CountVectorizer (BoW)
+
+TfidfVectorizer
+
+Cálculo de similitudes de coseno.
+
+Entrenamiento y evaluación de modelos de clasificación:
+
+Multinomial Naive Bayes
+
+Complement Naive Bayes
+
+Cálculo y comparación de métricas de rendimiento.
 
 Desafío 2
 
