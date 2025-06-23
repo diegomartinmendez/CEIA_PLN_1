@@ -7,7 +7,7 @@
 
 Este repositorio contiene los desafíos que se deben entregar para aprobar la materia.
 
-Desafío 1
+[Desafío 1](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_1_Diego_Mendez.ipynb)
 
 Desafío 2
 
