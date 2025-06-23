@@ -6,3 +6,11 @@
 #### Procesamiento del Lenguaje Natural I
 
 Este repositorio contiene los desafíos que se deben entregar para aprobar la materia.
+
+Desafío 1
+
+Desafío 2
+
+Desafío 3
+
+Desafío 4
