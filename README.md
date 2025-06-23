@@ -41,6 +41,23 @@ El objetivo del desafío es desarrollar un sistema de generación de texto basad
 - Generación de texto usando estrategias como beam search.
 - Comparación de resultados entre modelos.
 
-Desafío 3
+### **[Desafío 3](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_3_Diego_Mendez.ipynb)**
+
+#### Descripción
+El objetivo del desafío es construir un sistema secuencial encoder-decoder utilizando redes neuronales recurrentes (RNN, LSTM, GRU) para resolver una tarea de generación o traducción de texto. Se entrena el modelo con pares de oraciones, implementando un pipeline completo que incluye preprocesamiento, entrenamiento e inferencia.
+
+#### Contenido del notebook
+- Preprocesamiento de datos:
+Tokenización
+Creación de diccionarios (word2idx / idx2word)
+Padding y codificación
+- Implementación del modelo secuencial tipo Encoder-Decoder con Keras:
+Embedding
+RNN / LSTM / GRU
+Mecanismo de inferencia paso a paso
+- Generación de texto por inferencia secuencial.
+- Evaluación cualitativa de los resultados generados.
+
+
 
 Desafío 4
