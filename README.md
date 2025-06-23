@@ -48,13 +48,13 @@ El objetivo del desafío es construir un sistema secuencial encoder-decoder util
 
 #### Contenido del notebook
 - Preprocesamiento de datos:
-Tokenización
-Creación de diccionarios (word2idx / idx2word)
-Padding y codificación
+ - Tokenización
+ - Creación de diccionarios (word2idx / idx2word)
+ - Padding y codificación
 - Implementación del modelo secuencial tipo Encoder-Decoder con Keras:
-Embedding
-RNN / LSTM / GRU
-Mecanismo de inferencia paso a paso
+ - Embedding
+ - RNN / LSTM / GRU
+ - Mecanismo de inferencia paso a paso
 - Generación de texto por inferencia secuencial.
 - Evaluación cualitativa de los resultados generados.
 
