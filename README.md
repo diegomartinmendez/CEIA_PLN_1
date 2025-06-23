@@ -61,6 +61,17 @@ El objetivo del desafío es construir un sistema secuencial encoder-decoder util
 ### **[Desafío 4](https://github.com/diegomartinmendez/CEIA_PLN_1/blob/main/Desafio_4_Diego_Mendez.ipynb)**
 
 #### Descripción
+En este trabajo se avanza en el desarrollo de sistemas de traducción automática y generación de lenguaje natural. Se utilizan pares de frases en español e inglés para entrenar un modelo encoder-decoder, incorporando embeddings preentrenados.
 
 #### Contenido del notebook
-
+- Instalación de herramientas externas (gdown) para descarga de datasets.
+- Carga y exploración de corpus bilingüe.
+- Tokenización y vectorización de frases.
+- Creación de diccionarios word2idx y idx2word por idioma.
+- Construcción del modelo encoder-decoder con Keras:
+  - Capa de embeddings
+  - LSTM / GRU
+  - Decodificador paso a paso
+- Entrenamiento con corpus de pares de frases.
+- Evaluación del modelo con métricas como BLEU.
+- Análisis cualitativo de los resultados generados.
